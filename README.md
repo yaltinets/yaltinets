@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in moto, qa, php, python atc 
+- 👀 I’m interested in php, MySql, JS, moto, atc 
 - 🌱 I’m currently learning php, python
 - 💞️ I’m looking to collaborate on team of Ilon Mask
 - 📫 How to reach me: yaltinets84@gmail.com, t.me: @yaltinets
